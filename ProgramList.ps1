@@ -15,6 +15,7 @@ choco install google-backup-and-sync
 choco install ssms
 choco install vscode
 choco install docker
+choco install docker-desktop
 choco install googlechrome
 choco install microsoft-teams
 choco install slack
@@ -25,9 +26,19 @@ choco install zoomit
 choco install discord
 choco install steam-client
 choco install calibre
+choco install f.lux
+choco install windirstat
+choco install launchy
+choco install qbittorrent
+choco install git
+choco install signal
 
 # enable confirmation prompt
 choco feature disable -n=allowGlobalConfirmation
+
+# Install modules
+Install-Module posh-git -SkipPublisherCheck
+Install-Module oh-my-posh -SkipPublisherCheck
 
 <# NOT IN CHOCOLATEY
 Blizzard BattleNet
