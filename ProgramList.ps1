@@ -33,6 +33,7 @@ choco install qbittorrent
 choco install git
 choco install signal
 choco install notepadplusplus
+choco install putty
 
 # enable confirmation prompt
 choco feature disable -n=allowGlobalConfirmation
