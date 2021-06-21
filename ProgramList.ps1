@@ -12,7 +12,7 @@ choco install greenshot
 choco install everything
 choco install dropbox
 choco install google-backup-and-sync
-choco install ssms
+choco install sql-server-management-studio
 choco install vscode
 choco install docker
 choco install docker-desktop
