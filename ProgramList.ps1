@@ -34,6 +34,7 @@ choco install git
 choco install signal
 choco install notepadplusplus
 choco install putty
+choco install virtualbox
 
 # enable confirmation prompt
 choco feature disable -n=allowGlobalConfirmation
