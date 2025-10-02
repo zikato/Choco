@@ -17,7 +17,6 @@ choco install vscode
 choco install docker
 choco install docker-desktop
 choco install googlechrome
-choco install microsoft-teams
 choco install slack
 choco install malwarebytes
 choco install 1password
